@@ -1,7 +1,7 @@
 # [StreetView-Waste — WACV 2026 Main Track] StreetView-Waste: A Multi-Task Dataset for Urban Waste Management
 
 This repository provides resources associated with the paper  
-**“StreetView-Waste: A Multi-Task Dataset for Urban Waste Management”**, accepted to the **WACV 2026 Main Track**.
+[**“StreetView-Waste: A Multi-Task Dataset for Urban Waste Management”**](https://arxiv.org/abs/2511.16440), accepted to the **WACV 2026 Main Track**.
 
 StreetView-Waste is the **first fisheye street-view dataset tailored for urban waste analysis**, captured from a real waste-collection vehicle using **two 180° field-of-view cameras**. The dataset mirrors operational municipal scenarios and provides **high-quality annotations for three core tasks**: **2D object detection**, **multi-object tracking**, and **waste overflow instance segmentation**—supporting research for route optimization, asset mapping, and container status assessment.
 
@@ -17,6 +17,8 @@ It supports three benchmarks:
 3. **Waste Overflow Segmentation** (instance masks of unstructured litter/overflow near containers)
 
 > **Note:** Dataset access is managed through a data license agreement to support GDPR-compliant academic use.
+
+![images](images/overview.png)
 
 ---
 
