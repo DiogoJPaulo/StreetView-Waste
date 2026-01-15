@@ -18,7 +18,7 @@ It supports three benchmarks:
 
 > **Note:** Dataset access is managed through a data license agreement to support GDPR-compliant academic use.
 
-![images](images/overview.png)
+![images](images/overview.jpg)
 
 ---
 
