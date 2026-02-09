@@ -5,6 +5,8 @@ This repository provides resources associated with the paper
 
 StreetView-Waste is the **first fisheye street-view dataset tailored for urban waste analysis**, captured from a real waste-collection vehicle using **two 180° field-of-view cameras**. The dataset mirrors operational municipal scenarios and provides **high-quality annotations for three core tasks**: **2D object detection**, **multi-object tracking**, and **waste overflow instance segmentation**—supporting research for route optimization, asset mapping, and container status assessment.
 
+The dataset is publicly available at: https://streetview-waste.di.ubi.pt/.
+
 ---
 
 ## Dataset Overview
